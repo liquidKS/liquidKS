@@ -3,7 +3,7 @@ Hi 👋 My name is Kevin
 Information Technology Enthusiast 
 ---------------------------------  
 Looking to break into the Computer Network Industry.  
-* 🌍  I'm based in LA. 
+* *🌍  I'm based in LA. 
 * * ✉️  You can contact me at [ksegura149@gmail.com](mailto:ksegura149@gmail.com) 
 * * 🚀  I'm currently working on [LeetCode.](http://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY) 
 * * 🧠  I'm learning Networks. 
