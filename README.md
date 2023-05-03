@@ -6,7 +6,7 @@ Information Technology Enthusiast
 ---------------------------------  
 Looking to break into the Computer Network Industry.  
 * 🌍  I'm based in LA. 
-* * ✉️  You can contact me at [ksegura149@gmail.com](mailto:ksegura149@gmail.com) 
+* * ✉️  You can contact me at [kthecoder00@gmail.com](mailto:kthecoder00@gmail.com) 
 * * 🚀  I'm currently working on [LeetCodes.](http://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY) 
 * * 🧠  I'm learning Networks. 
 * * 🤝  I'm open to collaborating on IT work. 
